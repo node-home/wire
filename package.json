@@ -1,0 +1,19 @@
+{
+  "name": "home.wire",
+  "version": "0.0.0",
+  "description": "Connect to Home from anywhere",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "body-parser": "^1.6.2",
+    "cors": "^2.4.1",
+    "express": "^4.8.2",
+    "socket.io": "^1.0.6",
+    "then-redis": "^0.3.12",
+    "twilio": "^1.6.0"
+  }
+}
